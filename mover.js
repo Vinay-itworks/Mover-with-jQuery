@@ -45,6 +45,8 @@ $(document).ready(function(){
             alert("Reached the Bottom-End")
           }
           break;
+      default:
+      	  alert("Try arrow keys");
   }
   });
 });
